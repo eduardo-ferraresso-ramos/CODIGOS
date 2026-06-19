@@ -1,0 +1,70 @@
+html{
+scroll-behavior: smooth;
+}
+
+body{
+  background-color: #057185;
+  border: #0abcdb;
+}
+
+ .caixa1{
+  height:200px;
+  width:100%;
+  background-color: rgb(9, 195, 241);
+  align-items: center;
+  position: sticky;
+  top: 0;
+  gap:20px;
+  padding: 20px;
+  border: 10px solid rgb(46, 22, 182) ;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  
+  
+ }
+
+ .caixa2{
+
+  height: 500px;         
+  width:100%;
+  background-color: rgb(31, 141, 145);
+  margin-bottom:80px ;
+  text-align:center;
+  border:10px solid #096778;
+ 
+ }
+
+ .caixa3{
+  height:500px;
+  width:100%;
+  background-color: rgb(31, 141, 145);
+  margin-bottom:80px ;
+  text-align:center ;
+  border:10px solid #057185;
+  
+ }
+ 
+
+ .caixa4{
+  height: 500px;;
+  width:100%;
+  background-color: rgb(31, 141, 145);
+  text-align:center ;
+  border:10px solid #057185;
+ 
+ }
+ 
+.caixa5{
+display: flex;
+justify-content: center;
+gap: 15px;
+
+
+
+
+}
+
+
+
+ 
